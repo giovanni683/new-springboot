@@ -90,7 +90,4 @@ mvn spring-boot:run
 
 ---
 
-## Contato
-
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato!
 
