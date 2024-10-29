@@ -1,6 +1,3 @@
-Aqui está um exemplo de README em Markdown para explicar seus projetos no Spring. Sinta-se à vontade para personalizar conforme a estrutura e os detalhes específicos de cada projeto.
-
----
 
 # Projetos Spring Boot
 
